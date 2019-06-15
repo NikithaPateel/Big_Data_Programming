@@ -1,0 +1,31 @@
+Create table query:
+
+Create table Olympic(athelete string, age int, country string, year string , closing string, sport string , gold int, silver int, bronze int, total int) row format delimited fields terminated by '\t' stored as textfile;
+
+Loading Data into the table:
+
+load data local inpath '/home/cloudera/Desktop/Dataset/olympic_data.csv' into table Olympic;
+
+Query 1 - Total number of medals won by each country in swimming.
+
+select country,sum(total) from Olympic where sport = "swimming" group by country;
+
+Query 2 - Displaying number of medals United States won Year wise
+
+Select year, sum(total) from Olympic where country="United States" group by year;
+
+Query 3 - Total number of medals each country won display the name along with total medals.
+
+Select country, sum(total) from Olympic group by country;
+
+Query 4- Total number of gold medals won by each country in Cycling
+
+select country,sum(gold) from Olympic where sport = "Cycling" group by country;
+
+Query 5 - Number of gold medals won by India in different sports 
+
+select sport,sum(gold) from Olympic where country ="India" group by sport;
+
+
+
+
