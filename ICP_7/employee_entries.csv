@@ -1,0 +1,6 @@
+employee_id|department|lastname|years_with_company|hiredate|jobtitle|salary|managerid
+1|Engineering|Stevens|1|1980-02-12|manager|15000|1
+2|Engineering|Jones|2|1999-07-06|cleark|3000|2
+3|Marketing|Smith|3|1980-08-07|teamlead|10000|3
+4|Sales|Howard|1|1999-05-11|manager|14000|4
+5|Engineering|Gonzales|2|2000-01-14|member|8000|5
