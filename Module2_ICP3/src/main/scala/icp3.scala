@@ -54,11 +54,11 @@ import sqlcontext.implicits._
     //avgdf.show()
 
     val dupdf = df.dropDuplicates("Country")
-    dupdf.show()
+    //dupdf.show()
     println("count of dup data" +dupdf.count())
   //save to a file
     //dupdf.write.parquet("data")
-    dupdf.coalesce(1).write.option("header","true").format("csv").save("output")
+    //dupdf.coalesce(1).write.option("header","true").format("csv").save("output")
 
     val df13 = df.take(13).last
     println("13th row" +df13)
