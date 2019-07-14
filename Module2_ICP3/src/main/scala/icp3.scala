@@ -17,7 +17,7 @@ import sqlcontext.implicits._
       .option("delimiter",",")
       .option("header", "true")
       .option("inferSchema", "true")
-      .load("C:\\Users\\nikit\\OneDrive\\Desktop\\CSEE-5590\\Big_Data_Programming\\m1-icp3\\survey.csv")
+      .load("C:\\Users\\nikit\\OneDrive\\Desktop\\CSEE-5590\\Big_Data_Programming\\Module2_ICP3\\survey.csv")
 
    // df.show()
     //save data to file
@@ -59,6 +59,9 @@ import sqlcontext.implicits._
   //save to a file
     //dupdf.write.parquet("data")
     dupdf.coalesce(1).write.option("header","true").format("csv").save("output")
+
+    val df13 = df.take(13).last
+    println("13th row" +df13)
 
   }
 }
