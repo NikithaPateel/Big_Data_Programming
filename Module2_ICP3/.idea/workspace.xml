@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="592affaa-3c18-4a67-8cff-5a1b3bcf2df7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/src/main/scala/Mergersort.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/src/main/scala/Mergersort.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/BreadthFirstSearch$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/BreadthFirstSearch$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/BreadthFirstSearch$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/BreadthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/Mergesort$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/Mergesort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Module2_ICP3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module2_ICP3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module2_ICP3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module2_ICP3" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkDataframe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module2_ICP3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module2_ICP3" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkDataframe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Module2_ICP3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Module2_ICP3" type="462c0819:PsiDirectoryNode" />
+              <item name="SparkDataframe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PB_Project-master" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="592affaa-3c18-4a67-8cff-5a1b3bcf2df7" name="Default Changelist" comment="" />
+      <created>1563040920852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563040920852</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

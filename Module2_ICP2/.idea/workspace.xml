@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fd6bc9c-1df7-4883-95e7-35c85be2742c" name="Default" comment="" />
+    <list default="true" id="7fd6bc9c-1df7-4883-95e7-35c85be2742c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Mergersort.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Mergersort.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BreadthFirstSearch$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BreadthFirstSearch$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BreadthFirstSearch$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/BreadthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Mergesort$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/Mergesort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -36,11 +63,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/BreadthFirstSearch.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            <state relative-caret-position="362">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/file.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#2#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/logstream.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#1#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Mergersort.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
+            <state relative-caret-position="102">
+              <caret line="6" column="35" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -91,8 +142,10 @@
         <option value="$PROJECT_DIR$/input.txt" />
         <option value="$PROJECT_DIR$/src/main/scala/BasicMap.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/secondarysort.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Mergersort.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/BreadthFirstSearch.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Mergersort.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/file.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/logstream.scala" />
       </list>
     </option>
   </component>
@@ -102,11 +155,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-35" />
+    <option name="y" value="33" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -114,6 +167,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -143,18 +198,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562200288672" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563048568867" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
@@ -324,12 +377,15 @@
       <workItem from="1539579814681" duration="844000" />
       <workItem from="1539620316432" duration="3488000" />
       <workItem from="1561917963112" duration="14657000" />
-      <workItem from="1562196525921" duration="3092000" />
+      <workItem from="1562196525921" duration="8493000" />
+      <workItem from="1563031464056" duration="17000" />
+      <workItem from="1563048145916" duration="185000" />
+      <workItem from="1563048478091" duration="162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22081000" />
+    <option name="totallyTimeSpent" value="27846000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -344,7 +400,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18154311" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
       <window_info id="Structure" order="1" weight="0.24938574" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -353,7 +409,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6121113" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21440262" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -372,7 +428,7 @@
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="sbt" order="5" weight="0.3857791" />
+      <window_info anchor="right" id="sbt" order="5" visible="true" weight="0.022692889" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
       <window_info anchor="right" id="SciView" order="8" />
@@ -407,13 +463,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/test.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/scala/te1.scala" />
-    <entry file="file://$PROJECT_DIR$/output1/part-00000">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output1/part-00001">
+    <entry file="file://$PROJECT_DIR$/output1/part-00000" />
+    <entry file="file://$PROJECT_DIR$/output1/part-00001" />
+    <entry file="file://$PROJECT_DIR$/output/part-00001" />
+    <entry file="file://$PROJECT_DIR$/output/part-00000" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/BreadthFirstSearch.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="362">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Mergersort.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -424,31 +488,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/part-00001">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/file.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="155">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#2#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/part-00000">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/logstream.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Mergersort.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="60" lean-forward="true" selection-start-line="12" selection-start-column="60" selection-end-line="12" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/BreadthFirstSearch.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#1#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -481,7 +537,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
-          <last-edited>scala-sdk-2.11.8</last-edited>
+          <last-edited>scala-sdk-2.13.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -505,12 +561,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>wordcount</last-edited>
+          <last-edited>WordCount</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
