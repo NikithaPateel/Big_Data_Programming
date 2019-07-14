@@ -1,48 +1,752 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="592affaa-3c18-4a67-8cff-5a1b3bcf2df7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/src/main/scala/Mergersort.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/src/main/scala/Mergersort.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/BreadthFirstSearch$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/BreadthFirstSearch$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/BreadthFirstSearch$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/BreadthFirstSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/Mergesort$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/classes/Mergesort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_ICP2/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+    <list default="true" id="676bfe7b-e61a-40be-870f-2bbc57265cfb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Module2_ICP3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__com_univocity_univocity_parsers_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_scala_lang_scalap_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/modules/SparkDataframe-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/modules/SparkDataframe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$19dbf802a30836295d21$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$19dbf802a30836295d21.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$19dbf802a30836295d21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$32c0ac50e985f819b6e4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$32c0ac50e985f819b6e4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$32c0ac50e985f819b6e4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$3b69c8a64bc220b37f2b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$3b69c8a64bc220b37f2b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$3b69c8a64bc220b37f2b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$8bf3c365a5a1938803d3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$8bf3c365a5a1938803d3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/config-classes/$8bf3c365a5a1938803d3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkdataframe-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkdataframe-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkdataframe-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/src/main/scala/SparkDataFrame.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/src/main/scala/people.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$$typecreator2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$$typecreator4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$Department$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$DepartmentWithEmployees$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$DepartmentWithEmployees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$Employee$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame$Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/SparkDataFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/WordCount$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/WordCount$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/WordCount$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/classes/people.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/default/sparkdataframe$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/default/sparkdataframe$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/default/sparkdataframe_2.11/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/default/sparkdataframe_2.11/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/default-sparkdataframe_2.11-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.11/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/default/sparkdataframe$sources/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/default/sparkdataframe$sources/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/default/sparkdataframe_2.12/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/default/sparkdataframe_2.12/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/default-sparkdataframe_2.12-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkDataframe1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/.idea/modules/NetworkWordCount.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/.idea/modules/NetworkWordCount.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$46a88c2ff34bb69b1dfe$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$46a88c2ff34bb69b1dfe.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$46a88c2ff34bb69b1dfe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$66cc5e312eefe346ec71$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$66cc5e312eefe346ec71.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$66cc5e312eefe346ec71.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$a22763b4f705596affb5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$a22763b4f705596affb5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/config-classes/$a22763b4f705596affb5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkstreamingscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkstreamingscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkstreamingscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/sparkstreamingscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-sparkstreamingscala-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/networkwordcount/networkwordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/networkwordcount/networkwordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/networkwordcount/networkwordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/networkwordcount/networkwordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/scala-2.11/resolution-cache/reports/networkwordcount-networkwordcount$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../Module2_icp4/SparkStreamingScala/SparkStreamingScala/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__aopalliance_aopalliance_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_clearspring_analytics_stream_2_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_esotericsoftware_kryo_shaded_3_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_esotericsoftware_minlog_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_annotations_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_core_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_fasterxml_jackson_core_jackson_databind_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_paranamer_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_fasterxml_jackson_module_jackson_module_scala_2_11_2_6_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_google_code_findbugs_jsr305_1_3_9_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_google_guava_guava_14_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_google_inject_guice_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_google_protobuf_protobuf_java_2_5_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_ning_compress_lzf_1_0_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_thoughtworks_paranamer_paranamer_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_twitter_chill_2_11_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_twitter_chill_java_0_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__com_univocity_univocity_parsers_2_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_beanutils_commons_beanutils_1_7_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_beanutils_commons_beanutils_core_1_8_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_cli_commons_cli_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_codec_commons_codec_1_10_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_collections_commons_collections_3_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_configuration_commons_configuration_1_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_digester_commons_digester_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_httpclient_commons_httpclient_3_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_io_commons_io_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_lang_commons_lang_2_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__commons_net_commons_net_2_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__io_dropwizard_metrics_metrics_core_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__io_dropwizard_metrics_metrics_graphite_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__io_dropwizard_metrics_metrics_json_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__io_dropwizard_metrics_metrics_jvm_3_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__io_netty_netty_3_8_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__io_netty_netty_all_4_0_42_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__javax_annotation_javax_annotation_api_1_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__javax_inject_javax_inject_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__javax_servlet_javax_servlet_api_3_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__javax_validation_validation_api_1_1_0_Final_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__javax_ws_rs_javax_ws_rs_api_2_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__log4j_log4j_1_2_17_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__net_java_dev_jets3t_jets3t_0_7_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__net_jpountz_lz4_lz4_1_3_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__net_razorvine_pyrolite_4_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__net_sf_py4j_py4j_0_10_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_antlr_antlr4_runtime_4_5_3_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_avro_avro_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_avro_avro_ipc_1_7_7_tests_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_avro_avro_mapred_1_7_7_hadoop2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_commons_commons_compress_1_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_commons_commons_crypto_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_commons_commons_lang3_3_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_commons_commons_math_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_curator_curator_client_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_curator_curator_framework_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_curator_curator_recipes_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_annotations_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_auth_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_hdfs_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_app_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_core_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_jobclient_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_mapreduce_client_shuffle_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_api_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_client_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_hadoop_hadoop_yarn_server_common_2_2_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_ivy_ivy_2_4_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_parquet_parquet_column_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_parquet_parquet_common_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_parquet_parquet_encoding_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_parquet_parquet_format_2_3_0_incubating_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_parquet_parquet_hadoop_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_parquet_parquet_jackson_1_8_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_catalyst_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_core_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_launcher_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_network_common_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_network_shuffle_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_sketch_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_sql_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_tags_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_spark_spark_unsafe_2_11_2_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_xbean_xbean_asm5_shaded_4_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_apache_zookeeper_zookeeper_3_4_5_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_codehaus_jackson_jackson_core_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_codehaus_jackson_jackson_mapper_asl_1_9_13_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_codehaus_janino_commons_compiler_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_codehaus_janino_janino_3_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_fusesource_leveldbjni_leveldbjni_all_1_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_hk2_external_aopalliance_repackaged_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_hk2_external_javax_inject_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_hk2_hk2_api_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_hk2_hk2_locator_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_hk2_hk2_utils_2_4_0_b34_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_hk2_osgi_resource_locator_1_0_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_jersey_bundles_repackaged_jersey_guava_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_jersey_containers_jersey_container_servlet_core_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_client_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_common_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_jersey_core_jersey_server_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_glassfish_jersey_media_jersey_media_jaxb_2_22_2_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_javassist_javassist_3_18_1_GA_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_json4s_json4s_ast_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_json4s_json4s_core_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_json4s_json4s_jackson_2_11_3_2_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_mortbay_jetty_jetty_util_6_1_26_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_objenesis_objenesis_2_1_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_roaringbitmap_RoaringBitmap_0_5_11_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_4_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_scala_lang_scala_compiler_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_scala_lang_scalap_2_11_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_scalatest_scalatest_2_11_2_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_slf4j_jcl_over_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_slf4j_jul_to_slf4j_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_slf4j_slf4j_api_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_slf4j_slf4j_log4j12_1_7_16_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_sonatype_sisu_inject_cglib_2_2_1_v20090111_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_spark_project_spark_unused_1_0_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_tukaani_xz_1_0_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__org_xerial_snappy_snappy_java_1_1_2_6_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__oro_oro_2_0_8_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/libraries/sbt__xmlenc_xmlenc_0_52_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../m1-icp3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/modules/WordCount-build.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/modules/WordCount.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/sbt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../m1-icp3/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../m1-icp3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/build.sbt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/icp2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/icp9.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/output/.part-00000-d449c612-6a9f-4aef-87f0-127e52f7d7a2.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/output/part-00000-d449c612-6a9f-4aef-87f0-127e52f7d7a2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/build.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$4e0a22ce6b7e966b3f6a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$4e0a22ce6b7e966b3f6a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$4e0a22ce6b7e966b3f6a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$c852bdce8dfd0326a7f9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$c852bdce8dfd0326a7f9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$c852bdce8dfd0326a7f9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$d4817b01cb3915c4bbd3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$d4817b01cb3915c4bbd3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$d4817b01cb3915c4bbd3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$ebd3f14bca57d08b25fa$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$ebd3f14bca57d08b25fa.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/config-classes/$ebd3f14bca57d08b25fa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/default/m1-icp3-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/default/m1-icp3-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/default/module2_icp2-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/default/module2_icp2-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/default/wordcount-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/default/wordcount-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-m1-icp3-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-module2_icp2-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-wordcount-build-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/$global/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/compile/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/project/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/screenshots/avg.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/screenshots/countdupdata.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/screenshots/groupby.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/screenshots/import.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/screenshots/join.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/screenshots/min.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/screenshots/union.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/spark-warehouse/data/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/spark-warehouse/data/.part-00000-2148b101-6b22-4701-81f8-70b427588e7a.snappy.parquet.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/spark-warehouse/data/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/spark-warehouse/data/part-00000-2148b101-6b22-4701-81f8-70b427588e7a.snappy.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/src/main/scala/BreadthFirstSearch.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/src/main/scala/Mergersort.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/src/main/scala/icp3.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/survey.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/classes/BreadthFirstSearch$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/classes/BreadthFirstSearch$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/classes/BreadthFirstSearch$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/classes/BreadthFirstSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/classes/Mergesort$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/classes/Mergesort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/classes/icp3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/classes/icp3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/default/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/default/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/default/wordcount$sources/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/default/wordcount$sources/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/default/wordcount_2.11/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/default/wordcount_2.11/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/default/wordcount_2.11/0.1/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/default/wordcount_2.11/0.1/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/default-wordcount_2.11-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/ivy-report.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/ivy-report.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount$sources-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-compile-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-compile.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-optional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-provided.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-runtime-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-runtime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-scala-tool.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-test-internal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/reports/wordcount-wordcount_2.11-test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/wordcount/wordcount$sources/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/wordcount/wordcount_2.11/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/scala-2.11/resolution-cache/wordcount/wordcount_2.11/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/input_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/ivySbt/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/projectDescriptors/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/ssExtractDependencies/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/update/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/compile/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/compile/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-icp3/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/icp3.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/icp3.scala" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="7" />
+    <option name="y" value="54" />
+    <option name="width" value="1386" />
+    <option name="height" value="759" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -50,41 +754,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Module2_ICP3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2_ICP3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Module2_ICP3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2_ICP3" type="462c0819:PsiDirectoryNode" />
-              <item name="SparkDataframe" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Module2_ICP3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2_ICP3" type="462c0819:PsiDirectoryNode" />
-              <item name="SparkDataframe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Module2_ICP3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module2_ICP3" type="462c0819:PsiDirectoryNode" />
-              <item name="SparkDataframe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../PB_Project-master" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563075010877" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -98,39 +779,231 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="icp3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="icp3" />
+      <module name="WordCount" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.icp3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="WordCount" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="module2_icp3 [file:/C:/Users/nikit/OneDrive/Desktop/CSEE-5590/Big_Data_Programming/Module2_ICP3/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="WordCount-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1227065509" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2428047534" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../CS5542_ICP-2/CS5542_ICP-2/Source" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="592affaa-3c18-4a67-8cff-5a1b3bcf2df7" name="Default Changelist" comment="" />
-      <created>1563040920852</created>
+      <changelist id="676bfe7b-e61a-40be-870f-2bbc57265cfb" name="Default Changelist" comment="" />
+      <created>1562995811389</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563040920852</updated>
+      <updated>1562995811389</updated>
+      <workItem from="1562995813688" duration="13192000" />
+      <workItem from="1563041259292" duration="1383000" />
+      <workItem from="1563075119141" duration="600000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15175000" />
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16693944" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.62356794" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.5057283" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24962178" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.3289689" />
+      <window_info anchor="bottom" id="Java Enterprise" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="11" visible="true" weight="0.5400982" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Maven" order="0" />
+      <window_info anchor="right" id="Palette" order="1" />
+      <window_info anchor="right" id="sbt" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.apache.spark/spark-sql_2.11/srcs/spark-sql_2.11-2.1.0-sources.jar!/org/apache/spark/sql/Dataset.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="603" column="6" selection-start-line="603" selection-start-column="6" selection-end-line="603" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Mergersort.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/.part-00000-2ac82aaa-4a03-45db-862f-27085bc6fc01.snappy.parquet.crc" />
+    <entry file="file://$PROJECT_DIR$/SparkDataframe-2/temp-paraquet/._SUCCESS.crc" />
+    <entry file="file://$PROJECT_DIR$/SparkDataframe-2/temp-paraquet/.part-00000-354510f7-103f-4a52-a96e-4c9d85b8ea3b.snappy.parquet.crc" />
+    <entry file="file://$PROJECT_DIR$/mydata.paraquet/.part-00000-4f9c5d8c-3dc2-4db0-b319-0251523ac4ae.snappy.parquet.crc" />
+    <entry file="file://$PROJECT_DIR$/spark-warehouse/data/.part-00000-2148b101-6b22-4701-81f8-70b427588e7a.snappy.parquet.crc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/BreadthFirstSearch.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/survey.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="92" selection-start-column="91" selection-end-line="13" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/.part-00000-4d9f9249-1b20-4766-a872-4ad8d333499a.csv.crc" />
+    <entry file="file://$PROJECT_DIR$/data/.part-00001-4d9f9249-1b20-4766-a872-4ad8d333499a.csv.crc" />
+    <entry file="file://$PROJECT_DIR$/output/.part-00000-a1366091-c9c8-4195-81dc-7ab8e9671270.csv.crc" />
+    <entry file="file://$PROJECT_DIR$/output/part-00000-d449c612-6a9f-4aef-87f0-127e52f7d7a2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/icp3.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

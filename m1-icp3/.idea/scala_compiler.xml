@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="WordCount,m1-icp3_6287" />
+    <profile name="sbt 1" modules="WordCount,big_data_programming,m1-icp3_6287" />
   </component>
 </project>

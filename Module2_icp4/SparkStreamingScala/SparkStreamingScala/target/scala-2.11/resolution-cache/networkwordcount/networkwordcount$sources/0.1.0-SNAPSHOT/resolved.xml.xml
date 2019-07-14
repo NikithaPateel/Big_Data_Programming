@@ -4,7 +4,7 @@
 		module="networkwordcount$sources"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190713152141"
+		publication="20190713222841"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
