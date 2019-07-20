@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="191ef4e6-1fbe-493e-b8bc-79fad1c95019" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_ICP3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/icp2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/icp9.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/output/._SUCCESS.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/output/.part-00000-d449c612-6a9f-4aef-87f0-127e52f7d7a2.csv.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/output/_SUCCESS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/output/part-00000-d449c612-6a9f-4aef-87f0-127e52f7d7a2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/src/main/scala/icp3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_ICP3/src/main/scala/icp3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_ICP3/target/scala-2.11/classes/icp3$.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_ICP3/target/scala-2.11/classes/icp3$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala/logs/log9.txt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/graphframe.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-140">
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/main/scala/graphframe.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="606" />
+    <option name="y" value="-10" />
+    <option name="width" value="666" />
+    <option name="height" value="759" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SparkDataframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkDataframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
+              <item name="edges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkDataframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkDataframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkDataframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SparkDataframe" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SparkGraphframe" type="462c0819:PsiDirectoryNode" />
+              <item name="vertices" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563648841967" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Module2_ICP5/SparkGraphframe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="graphframe" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="graphframe" />
+      <module name="SparkDataframe" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="sparkgraphframe_3900" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="sparkgraphframe_3900" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.graphframe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SparkDataframe" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sparkgraphframe [file:/C:/Users/nikit/OneDrive/Desktop/CSEE-5590/Big_Data_Programming/Module2_ICP6/Source%20code/Source%20code/SparkGraphframe/SparkGraphframe/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SparkDataframe-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3103992307140" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="4253848488" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2125951362" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../../../../../CS5542_ICP-2/CS5542_ICP-2/Source" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Module2_icp4/SparkStreamingScala/SparkStreamingScala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../m1-icp3" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="191ef4e6-1fbe-493e-b8bc-79fad1c95019" name="Default Changelist" comment="" />
+      <created>1563418702664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563418702664</updated>
+      <workItem from="1563418705619" duration="6107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6107000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06580938" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" weight="0.396072" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.049099836" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SparkGraphFrame.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vertices/part-00088-7b9d814e-164d-49ae-a0c7-c74eee595812.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edges/part-00000-ac5a711f-7798-4c8c-8301-bcfe2a78584a.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/graphframe.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
